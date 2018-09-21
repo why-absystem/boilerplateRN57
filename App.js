@@ -16,7 +16,7 @@ export default class App extends Component {
 	}
 
 	componentDidMount() {
-		SplashScreen.hide();
+		SplashScreen.hide(); //hide splash screen
 	}
 
 	render() {
